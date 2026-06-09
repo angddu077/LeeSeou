@@ -13,7 +13,7 @@
 body{
     font-family:'Noto Sans KR',sans-serif;
     background:#1a1a1d;
-    color:#e5e5f0;
+    color:#FFA07A;
     overflow-x:hidden;
 }
 
@@ -62,7 +62,7 @@ body::before{
     border-radius:30px;
     border:1px solid rgba(168,85,247,0.4);
     background:transparent;
-    color:#c084fc;
+    color:#FFFAFA;
     cursor:pointer;
     font-family:'Orbitron',sans-serif;
 }
@@ -252,9 +252,8 @@ h1{
 
 <section id="intro" class="section active">
     <img src="IMG_6530.png" class="character-img">
-    <h1>류혜원</h1>
-    <div class="world-desc">발렌타인 다음 날, 스케줄이 없어 집에서 쉬고 있던 매니저의 집에 갑자기 초인종이 울린다.
-        문을 열어보니 담당 아이돌인 류혜원이 서 있고, 손에는 초콜릿이 들려 있다?
+    <h1>이서우</h1>
+    <div class="world-desc">흡연부스에서 담배를 피우던 중, 주머니 속의 휴대폰 진동벨이 울린다. 화면에 뜬 연락처는 할아버지였다. 예상대로 또 언제 결혼을 할 거냐는 소리였다. 전화 너머로 들려오는 할아버지의 잔소리를 한 귀로 듣고 한 귀로 흘리고 있던 중, 흡연부스 안으로 젊은 여성 한명이 들어온다.
     근데 발렌타인, 어제 아니야?</div>
     <div class="chat-box">에..? 발렌타인, 지난거야?!</div>
     <button class="play-btn" onclick="startLoading()">▶ Play</button>
